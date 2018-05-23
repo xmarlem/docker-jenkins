@@ -1,0 +1,5 @@
+workflow-aggregator
+blueocean
+sonar
+docker-plugin
+azure-cli
